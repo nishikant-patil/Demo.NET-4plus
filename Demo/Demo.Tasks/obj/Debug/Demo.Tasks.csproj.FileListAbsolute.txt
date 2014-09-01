@@ -3,3 +3,8 @@ C:\Users\Nishikant\documents\visual studio 2012\Projects\Demo\Demo.Tasks\bin\Deb
 C:\Users\Nishikant\documents\visual studio 2012\Projects\Demo\Demo.Tasks\bin\Debug\Demo.Tasks.pdb
 C:\Users\Nishikant\documents\visual studio 2012\Projects\Demo\Demo.Tasks\obj\Debug\Demo.Tasks.exe
 C:\Users\Nishikant\documents\visual studio 2012\Projects\Demo\Demo.Tasks\obj\Debug\Demo.Tasks.pdb
+C:\Users\nispatil\Source\Repos\Demo.NET-4plus\Demo\Demo.Tasks\bin\Debug\Demo.Tasks.exe.config
+C:\Users\nispatil\Source\Repos\Demo.NET-4plus\Demo\Demo.Tasks\obj\Debug\Demo.Tasks.exe
+C:\Users\nispatil\Source\Repos\Demo.NET-4plus\Demo\Demo.Tasks\obj\Debug\Demo.Tasks.pdb
+C:\Users\nispatil\Source\Repos\Demo.NET-4plus\Demo\Demo.Tasks\bin\Debug\Demo.Tasks.exe
+C:\Users\nispatil\Source\Repos\Demo.NET-4plus\Demo\Demo.Tasks\bin\Debug\Demo.Tasks.pdb
